@@ -54,7 +54,3 @@ This repository contains an Apache Airflow DAG and an ETL process for loading or
 ## Conclusion
 
 This repository offers a robust, automated solution for handling order data, providing businesses with timely access to critical data that can inform decision-making and drive business growth. With minimal setup, companies can implement this process to streamline data management and leverage real-time insights from their order transactions.
-
----
-
-For more information or inquiries, please reach out to the repository maintainers.
